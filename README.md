@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Testrail](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=testrail&logoColor=white)
+![Testrail](https://img.shields.io/badge/Testrail-0078d7.svg?style=for-the-badge&logo=test-rail&logoColor=white)
 
 
 ### Find me at:
