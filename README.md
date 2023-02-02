@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Testrail](https://img.shields.io/badge/Testrail-0078d7.svg?style=for-the-badge&logo=test-rail&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-0078d7?style=for-the-badge&logo=charles-proxy&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-0078d7?style=for-the-badge&logo=cypress&logoColor=white)
+
 
 
 ### Find me at:
