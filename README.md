@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 
 ### Find me at:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/jennifer-jazmine-guerrero-fugon-4115bb19b)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jennifer-jazmine-guerrero-fugon-4115bb19b)
 
 
