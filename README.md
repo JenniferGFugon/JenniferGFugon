@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%231572B6.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira%20ftware%20BI-%231572B6.svg?style=for-the-badge&logo=jiraoColor=white)
 
 
 
