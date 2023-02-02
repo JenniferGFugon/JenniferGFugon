@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Testrail](https://img.shields.io/badge/testrail.js-6DA55F?style=for-the-badge&logo=testrail.js&logoColor=white)
+![Testrail](https://img.shields.io/badge/testrail.js-6DA55F?style=for-the-badge&logo=testrail&logoColor=white)
 
 
 
